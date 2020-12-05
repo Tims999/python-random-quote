@@ -1,4 +1,4 @@
-def main():
+def primary():
 #  print "Keep it logically awesome."
    print("Keep it logically awesome.")
 
@@ -10,4 +10,4 @@ def main():
   
 
 if __name__== "__main__":
-  main()
+   primary()
